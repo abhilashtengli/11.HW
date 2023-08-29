@@ -20,4 +20,4 @@ This project consists of an HTML file (`index.html`), a CSS file (`styles.css`),
 
 ## Screenshots
 
-![Screenshot of the Tip Calculator](/Screenshot.png)
+[Screenshot of the Tip Calculator](/Screenshot.png)
